@@ -1,0 +1,2 @@
+#define garysHeap_VERSION_MAJOR @garysHeap_VERSION_MAJOR@
+#define garysHeap_VERSION_MINOR @garysHeap_VERSION_MINOR@
